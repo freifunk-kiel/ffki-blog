@@ -13,4 +13,6 @@ title: Hier der Titel deiner neuen Seite
 ---
 ```
 
+ - Bilder können in den ordner `images` hochgeladen werden, diese werden auf der Webseite unter `/blog-img/` verlinkt
+ - weitere Formatierungen findet man wenn man nach "markdown cheat sheet" sucht
  - Dann noch einen "Pull Request" erstellen mit deiner neuen Seite
