@@ -1,7 +1,9 @@
 # ffki-blog
-blog der Webseite http://freifunk.in-kiel.de/blog.html
+Blog der Webseite http://freifunk.in-kiel.de/blog.html
 
-Um einen neuen Beitrag zu erstellen einfach folgende schritte:
+Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog kannst du **direkt im Browser hier auf Github bearbeiten**. 
+
+Klicke dazu einfach oben auf den Ordner `_posts` und führe dann folgende Schritte aus:
 
  - Erstelle eine neue `.md` seite im ordner `_posts`, drücke dazu auf das Plus in der Überschrift:  
     `    / ffki-blog / _posts / + `  
