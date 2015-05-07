@@ -35,7 +35,7 @@ Termin für ffnordcon2015 II folgt noch.
 
 
 ###2) Info NOC Aktivität  
-- Bisher 3 Gateways. seit ca. 2,5 Wochen gibt es ein weiteres VPN-Gateway
+- Bisher 4 Gateways. seit ca. 2,5 Wochen gibt es ein weiteres VPN-Gateway (VPN1)
 - Spenden: Jemand (TM) kümmert sich um die Organisation von Spenden und deren Verwaltung
 - Neue Server-Hardware über Toppoint in Sicht
 
