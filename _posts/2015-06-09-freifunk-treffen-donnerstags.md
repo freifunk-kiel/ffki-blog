@@ -4,7 +4,7 @@ title: Jeden ersten Donnerstag Freifunk Treffen in der Toppoint
 ---
 
 Wie jeden ersten Donnerstag im Monat treffen wir uns in den Räumen
-der Toppoint, die in der [Eckernförderstr. 20](http://graph.freifunk.in-kiel.de/geomap.html?lat=54.32211&lon=10.12429) zu finden ist.
+der Toppoint, die in der [Fraunhoferstr. 2-4](https://graph.freifunk.in-kiel.de/geomap.html?lat=54.3416&lon=10.12517) zu finden ist.
 Es geht wie immer um 20:00 Uhr los.
 
 
