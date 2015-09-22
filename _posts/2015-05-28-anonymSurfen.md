@@ -1,17 +1,14 @@
 ---
 layout: post
-title: Anonym Surfen im Freifunk Netz
+title: Anonymes Surfen im Freifunknetz
 ---
+Im Freifunknetz hat man bezüglich der Anonymität den Vorteil, dass der Datenverkehr nicht eindeutig deinem Anschluss zugeordnet werden kann. Wenn du im Freifunknetz allerdins wirklich anonym surfen willst, benötigst du einige Browser-Addons.
 
-Wenn du anonym surfen willst, bringt es dahingehend nichts, Freifunk zu benutzen. 
+###Im Freifunknetz sollte man mindestens diese Addons installieren:
 
-Um anonym zu Surfen benötigt man einige Browser-Addons, wie https-everywhere und better-privacy
+ * [Privacy Badger](https://addons.mozilla.org/de/firefox/addon/privacy-badger-firefox/)
+ * Einen Ad-Blocker wie z.B. [Ublock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
+ * [HTTPS-Everywhere](https://www.eff.org/HTTPS-EVERYWHERE) - ist im Freifunk äußerst wichtig!
 
-###Im Freifunk Netz sollte man mindestens diese Addons installieren:
-
-- [HTTPS-Everywhere](https://www.eff.org/HTTPS-EVERYWHERE) (ist ein muss für alle im Freifunk!!!) 
-
-- [Privacy Badger](https://addons.mozilla.org/de/firefox/addon/privacy-badger-firefox/)
-
-- Einen Ad-Blocker wie z.b. [Ublock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
+Diese Addons sind übrigens für jeglichen Internetzugang zu empfehlen, nicht nur für das Surfen im Freifunknetz.
  
