@@ -9,11 +9,9 @@ Um anonym zu Surfen benötigt man einige Browser-Addons, wie https-everywhere un
 
 ###Im Freifunk Netz sollte man mindestens diese Addons installieren:
 
-- HTTPS-Everywhere (ist ein muss für alle im Freifunk!!!)  
- https://www.eff.org/HTTPS-EVERYWHERE
+- [HTTPS-Everywhere](https://www.eff.org/HTTPS-EVERYWHERE) (ist ein muss für alle im Freifunk!!!) 
 
-- Privacy Badger  
- https://addons.mozilla.org/de/firefox/addon/privacy-badger-firefox/
+- [Privacy Badger](https://addons.mozilla.org/de/firefox/addon/privacy-badger-firefox/)
 
-- Einen Ad-Blocker wie z.b. Adblock Edge:  
- https://addons.mozilla.org/de/firefox/addon/adblock-edge/
+- Einen Ad-Blocker wie z.b. [Ublock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
+ 
