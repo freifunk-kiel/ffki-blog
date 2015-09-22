@@ -2,7 +2,7 @@
 layout: post
 title: Anonymes Surfen im Freifunknetz
 ---
-Im Freifunknetz hat man bezüglich der Anonymität den Vorteil, dass der Datenverkehr nicht eindeutig deinem Anschluss zugeordnet werden kann. Wenn du im Freifunknetz allerdins wirklich anonym surfen willst, benötigst du einige Browser-Addons.
+Im Freifunknetz hast du bezüglich der Anonymität den Vorteil, dass dein Datenverkehr nicht eindeutig deinem Internetanschluss zugeordnet werden kann. Wenn du im Freifunknetz allerdings wirklich anonym surfen willst, benötigst du einige Browser-Addons.
 
 ###Im Freifunknetz sollte man mindestens diese Addons installieren:
 
