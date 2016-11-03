@@ -4,34 +4,30 @@ title: 06.10.2016 - Protokoll Freifunk Treffen
 ---
 Themen
 
-#Bericht vom Medienkompetenztag
+ - Bericht vom Medienkompetenztag
+ - Bericht von den Kieler Linuxtagen
+ - Neue Firmwarefunktionen vorgestellt
+ - Knotenalarm auf der Startseite
+ - Diverses
 
-#Bericht von den Kieler Linuxtagen
+   1. Bericht vom Medienkompetenztag 
 
-#Neue Firmwarefunktionen vorgestellt
-
-#Knotenalarm auf der Startseite
-
-#Diverses
-
-#1. Bericht vom Medienkompetenztag 
-
-#2. Bericht von den Kieler Linuxtagen
+   2. Bericht von den Kieler Linuxtagen
     
-#3. Neue Firmwarefunktionen vorgestellt
+   3. Neue Firmwarefunktionen vorgestellt
 
-- Roamguide aktivieren
-  ( https://git.toppoint.de/sargon/roamguide )
-- USB-Freigabe
-  ( https://github.com/freifunk-kiel/ffki-packages/tree/master/gluon-config-mode-usb-media ) 
+     - Roamguide aktivieren
+       ( https://git.toppoint.de/sargon/roamguide )
+     - USB-Freigabe
+       ( https://github.com/freifunk-kiel/ffki-packages/tree/master/gluon-config-mode-usb-media ) 
 
-#4. Knotenalarm auf unserer Startseite
+   4. Knotenalarm auf unserer Startseite
 
-Die neue Funktion (Knotenalarm)http://ffki.de/nodealarm.html für Betreiber von Freifunk Knoten st nun auf Startseite aktivierbar.
-Interressierte Knotenbetreiber können sich dort eintragen um be Ausfällen benachrichtigt zu werden   
+     Die neue Funktion (Knotenalarm)http://ffki.de/nodealarm.html für Betreiber von Freifunk Knoten st nun auf Startseite aktivierbar.
+     Interressierte Knotenbetreiber können sich dort eintragen um be Ausfällen benachrichtigt zu werden   
 
-#5. Diverses
+   5. Diverses
 
-- Der Freifunk am Vinetaplat
-- Dächer der Stadt - es gibt viel zu tun - packen wir es an!
-- Monitoringsystem für die geneigten Sysadmin unter https://monitoring.freifunk.in-kiel.de
+     - Der Freifunk am Vinetaplat
+     - Dächer der Stadt - es gibt viel zu tun - packen wir es an!
+     - Monitoringsystem für die geneigten Sysadmin unter https://monitoring.freifunk.in-kiel.de
