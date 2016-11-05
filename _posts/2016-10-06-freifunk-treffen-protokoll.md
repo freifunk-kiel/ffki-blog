@@ -23,11 +23,11 @@ Themen
 
    4. Knotenalarm auf unserer Startseite
 
-     Die neue Funktion (Knotenalarm)http://ffki.de/nodealarm.html für Betreiber von Freifunk Knoten st nun auf Startseite aktivierbar.
-     Interressierte Knotenbetreiber können sich dort eintragen um be Ausfällen benachrichtigt zu werden   
+      Die neue Funktion (Knotenalarm)http://ffki.de/nodealarm.html für Betreiber von Freifunk Knoten st nun auf Startseite aktivierbar.
+      Interressierte Knotenbetreiber können sich dort eintragen um be Ausfällen benachrichtigt zu werden   
 
    5. Diverses
 
-     - Der Freifunk am Vinetaplat
+     - Der Freifunk am Vinetaplatz
      - Dächer der Stadt - es gibt viel zu tun - packen wir es an!
      - Monitoringsystem für die geneigten Sysadmin unter https://monitoring.freifunk.in-kiel.de
