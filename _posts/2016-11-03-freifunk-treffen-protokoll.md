@@ -4,53 +4,53 @@ title: 03.11.2016 - Protokoll Freifunk Treffen
 ---
 Themen
 
- - ONN - Dächer werden ausgewählt  noch dieses Jahr begehung
- - Wieviel Daten soll Freifunk sammeln?
+ - ONN - Dächer werden ausgewählt noch dieses Jahr Begehung
+ - Wie viel Daten soll Freifunk sammeln?
  - Warum benutzen wir eine Keys liste?
  - Firmware Update mit Hürden
  - Dächer in Kiel
- - Noc liste öffentlich
+ - NOC liste öffentlich
  - Wir brauchen neue Faltblätter
- - Antennenshüsseln zu verschenken
+ - Antennenschüsseln zu verschenken
  - Diverses
 
-   1. ONN - Dächer werden ausgewählt  noch dieses Jahr begehung
+   1. ONN - Dächer werden ausgewählt noch dieses Jahr Begehung
 
-   2. Wieviel Daten soll Freifunk sammeln? 
+   2. Wie viel Daten soll Freifunk sammeln?
 
       - Mailingliste ist deshalb OHNE öffentlichem Archiv
-      - Kontaktadresse auf der Webseite ändern in eine mail, die in ein Ticketsystem landet (anstatt direkt auf die Mailingliste)
+      - Kontaktadresse auf der Webseite ändern in eine Mail, die in ein Ticketsystem landet (anstatt direkt auf die Mailingliste)
       - nichts sammeln, was nicht zum Betrieb des Netzes notwendig ist
-      - text beim versenden des Keys: Hinweis darauf, dass es auch anonym möglich wäre.
+      - Text beim versenden des Keys: Hinweis darauf, dass es auch anonym möglich wäre.
     
    3. Warum benutzen wir eine Keys liste?
 
       - Um Kontakt mit den Leuten zu haben
-      - Um potentielle unzügliche Namen nicht zulassen
+      - Um potentielle anzügliche Namen nicht zuzulassen
       - User, die in eine andere Community gehören, können benachrichtigt werden
       - Man geht einen Peering-Deal ein mit Knotenbetreibern
 
    4. Firmware Update mit Hürden
 
       - Probleme sind selten
-      - bitte melden, wenn euer router abstürzt
+      - bitte melden, wenn euer Router abstürzt
 
    5. Dächer in Kiel
 
       Erlaubnis mit geprüftem Elektriker erteilt
 
       - Finanzamt in der Feldstrasse
-      - Rathaus erstmal noch nicht
+      - Rathaus erst mal noch nicht
 
-   6. Noc liste öffentlich
+   6. NOC liste öffentlich
 
    7. Wir brauchen neue Faltblätter
 
       Wir brauchen neue Faltblätter mit dem einen (die WAN/LAN Ports erläutert werden)
 
-   8. Antennenshüsseln zu verschenken
+   8. Antennenschüsseln zu verschenken
 
-      hat jemand noch mehr fotos?
+      hat jemand noch mehr Fotos?
 
       die Antennen haben einen N-Stecker. Man kann da z.B. direkt einen Ubiquiti Bullet dranhängen
 
@@ -58,14 +58,14 @@ Themen
 
        - für Freifunk Nordheide 2 Stück - Swen Mager
        - Pascal 2 Schüsseln - Lauenburg
-       - sven eine aueinandergebaut
+       - Sven eine auseinandergebaut
 
    9. Diverses
 
        - VPN-Exit bei hide.me in Frankfurt
          wird demnächst beschlossen
-       - ipv6
-         moritz kümmert sich
+       - IPv6
+         Moritz kümmert sich
        - Router mit 8MB
          4MB passt die Firmware nicht mehr
        - Repair Cafe am Sa. 12.11. in Gaarden
