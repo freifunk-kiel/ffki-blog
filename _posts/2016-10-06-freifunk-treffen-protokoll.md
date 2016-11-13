@@ -24,7 +24,7 @@ Themen
    4. Knotenalarm auf unserer Startseite
 
       Die neue Funktion [Knotenalarm](http://ffki.de/nodealarm.html) für Betreiber von Freifunk Knoten ist nun auf Startseite aktivierbar.
-      Interressierte Knotenbetreiber können sich dort eintragen um be Ausfällen benachrichtigt zu werden   
+      Interessierte Knotenbetreiber können sich dort eintragen um bei Ausfällen benachrichtigt zu werden   
 
    5. Diverses
 
