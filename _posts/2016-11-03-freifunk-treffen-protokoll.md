@@ -39,7 +39,7 @@ Themen
 
       Erlaubnis mit geprüftem Elektriker erteilt
 
-      - Finanzamt in der Feldstrasse
+      - Finanzamt in der Feldstraße
       - Rathaus erst mal noch nicht
 
    6. NOC liste öffentlich
