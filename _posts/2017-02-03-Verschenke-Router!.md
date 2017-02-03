@@ -10,15 +10,14 @@ Durch eine glückliche Fügung des Schicksals sitzen wir auf einer ganzen Menge 
 würden.
 
 
-Du traust dich nicht selbstandig die Freifunk Firmware zu installieren? Kein Problem! Wir richten das Gerat für dich ein.
-Fix und Fertig für deine Steckdose.
+Du traust dich nicht selbstandig die Freifunk Firmware zu installieren? Kein Problem! Wir richten das Gerat in der Toppoint zusammen mit dir ein.
 Kommt uns einfach im Chat besuchen und gebt uns ein paar Infos zu eurem Wunschrouter. 
 
 Chat: https://riot.eclabs.de/#/room/#ffki:irc.hackint.org
 
-- Name deines Router. https://mesh.freifunk.in-kiel.de/
+- Name deines Router auf der Karte https://mesh.freifunk.in-kiel.de/
 - Wohnort deines Routers.
-- Eine Kontaktadresse von dir. Damit dich deine Nachbarn bitten können den Router auf eine andere Fensterbank zu stellen.
+- Eine Kontaktmöglichkeit (email oder telefon) von dir. Damit dich deine Nachbarn bitten können den Router auf eine andere Fensterbank zu stellen.
 - Teile uns noch mit an welchem Tag du deinen Router in der Toppoint abholen willst.
 
 
@@ -33,6 +32,6 @@ Fraunhoferstr. 2-4
 Besonders schön ware es, wenn du in deiner Wohnung bisher Freifunk empfängst und die Funkwolke nur vergrößern willst.
 
 
-*Bild vom Router*
+<img src="https://matrix.eclabs.de/_matrix/media/v1/download/matrix.eclabs.de/ATahEIPAPxSQFbALMeuNcqri" style="width:100%">
 
 Moaar Freifunk! Mooaar Meshing! Für ein soziales Netzwerk auf allen Ebenen!
