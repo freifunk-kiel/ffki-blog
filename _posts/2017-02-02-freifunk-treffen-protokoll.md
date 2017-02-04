@@ -31,12 +31,12 @@ Einige Objekte wären erstmal interessant:
 
 ## Öffentlichkeitsarbeit
 
-Wir brauchen mehr Kommunikation nach aussen. Das umfasst Präsenz auf sozialen Netzwerken (@ff_kiel [6]) oder die Pflege des Blogs.
+Wir brauchen mehr Kommunikation nach aussen. Das umfasst Präsenz auf sozialen Netzwerken (Twitter @ff_kiel [6]) und die Pflege des Blogs.
 
 
-[1] https://offenenetzenord.de/
-[2] https://freifunk-3laendereck.net/
-[3] https://freifunk-3laendereck.net/2016/10/transparenzreport/
-[4] http://www.bundesrat.de/drs.html?id=107-17
-[5] https://fragdenstaat.de/a/20165
-[6] https://twitter.com/ff_kiel
+[1] [https://offenenetzenord.de/](https://offenenetzenord.de/)  
+[2] [https://freifunk-3laendereck.net/](https://freifunk-3laendereck.net/)  
+[3] [https://freifunk-3laendereck.net/2016/10/transparenzreport/](https://freifunk-3laendereck.net/2016/10/transparenzreport/)  
+[4] [http://www.bundesrat.de/drs.html?id=107-17](http://www.bundesrat.de/drs.html?id=107-17)  
+[5] [https://fragdenstaat.de/a/20165](https://fragdenstaat.de/a/20165)  
+[6] [https://twitter.com/ff_kiel](https://twitter.com/ff_kiel)  
