@@ -29,9 +29,9 @@ Seit dem letzten Firmware Update haben einige Knotenbetreiber einen starken Anst
 In den letzten Jahren war auch Freifunk auf der Kieler Woche vertreten. Wir sollten auch in diesem Jahr wieder die Kontaktmöglichkeiten Nutzen um die Öffentlichkeit zu erreichen.
 
 
-[1] [https://heise.de/-2849174](https://heise.de/-2849174)
-[2] [https://forum.freifunk.net/t/vorratsdatenspeicherung-abschaltung-ffrl-exit/13736](https://forum.freifunk.net/t/vorratsdatenspeicherung-abschaltung-ffrl-exit/13736)
-[3] [http://www.bundesrat.de/drs.html?id=107-17](http://www.bundesrat.de/drs.html?id=107-17)
-[4] [http://www.landtag.ltsh.de/plenumonline/archiv/wp18/50/debatten/42.html](http://www.landtag.ltsh.de/plenumonline/archiv/wp18/50/debatten/42.html)
-[5] [https://fragdenstaat.de/a/20165](https://fragdenstaat.de/a/20165)
-[6] [https://docs.google.com/spreadsheets/d/1gfj_DM1fZln_HYJHPaGkWeyHxM9btrnPPTRz2WkDmWg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1gfj_DM1fZln_HYJHPaGkWeyHxM9btrnPPTRz2WkDmWg/edit?usp=sharing)
+[1] [https://heise.de/-2849174](https://heise.de/-2849174)  
+[2] [https://forum.freifunk.net/t/vorratsdatenspeicherung-abschaltung-ffrl-exit/13736](https://forum.freifunk.net/t/vorratsdatenspeicherung-abschaltung-ffrl-exit/13736)  
+[3] [http://www.bundesrat.de/drs.html?id=107-17](http://www.bundesrat.de/drs.html?id=107-17)  
+[4] [http://www.landtag.ltsh.de/plenumonline/archiv/wp18/50/debatten/42.html](http://www.landtag.ltsh.de/plenumonline/archiv/wp18/50/debatten/42.html)  
+[5] [https://fragdenstaat.de/a/20165](https://fragdenstaat.de/a/20165)  
+[6] [https://docs.google.com/spreadsheets/d/1gfj_DM1fZln_HYJHPaGkWeyHxM9btrnPPTRz2WkDmWg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1gfj_DM1fZln_HYJHPaGkWeyHxM9btrnPPTRz2WkDmWg/edit?usp=sharing)  
