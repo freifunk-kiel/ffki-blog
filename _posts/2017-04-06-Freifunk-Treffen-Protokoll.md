@@ -25,7 +25,7 @@ Die Linux User Group organisiert an Himmelfahrt das Linux User Group Camp 2017 [
 
 ## Dächer des Landes
 
-Die Landesverwaltung stellt uns die Dächer ihrer Häuser zur Verfügung. Hierfür ist zunächst das Pilotprojekt am Mercatorhochhaus in Arbeit. Seitens der Verwaltung wird uns Platz für Hardware sowie Strom zur Verfügung gestellt. Außerdem werden Mastinstallationen zur Verfügung gestellt.
+Die Landesverwaltung stellt uns die Dächer ihrer Häuser zur Verfügung. Hierfür ist zunächst das Pilotprojekt am <a href="https://wiki.freifunk.in-kiel.de/wiki/Mercatorhochhaus">Mercatorhochhaus</a> in Arbeit. Seitens der Verwaltung wird uns Platz für Hardware sowie Strom zur Verfügung gestellt. Außerdem werden Mastinstallationen zur Verfügung gestellt.
 
 Von uns müssen aktuell die gewünschte Abdeckung und die Ausleuchtung berechnet werden. Hierfür wird gerne noch Unterstützung gesucht. Leider gibt es einige Einschränkungen mit der Montage, weil ein Abstand zur Dachkante eingehalten werden muss und ein Geländer im Weg ist. Außerdem müssen die existierenden Antennen von Telekommunikationsunternehmen und Schifffahrtsamt berücksichtigt werden.
 
