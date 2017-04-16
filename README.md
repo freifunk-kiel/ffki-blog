@@ -9,8 +9,8 @@ Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog
 ### 1. Klicke einfach oben auf den Ordner `_posts` und führe dann folgende Schritte aus:
 
   - Logge dich in deinem Github Account ein (oder falls du einen eigenen Account ablehnst, benutze den Username: `ffki-blogger`, Passwort: `blogger77`)
-  - Erstelle eine neue `.md` seite im ordner `_posts`, drücke dazu rechts oben auf "Create new file":  
-     ![new post](https://i.stack.imgur.com/CpbDL.png)  
+  - Erstelle eine neue `.md` seite im ordner [`_posts`](https://github.com/freifunk-kiel/ffki-blog/tree/master/_posts), drücke dazu rechts oben auf "Create new file":  
+     ![Create new file](https://i.stack.imgur.com/CpbDL.png)  
      (beim ersten mal wird dabei automatisch eine Kopie dieses Projekts in deinem Github erzeugt, in dem du ab dann arbeitest). 
   - Die Benennung der Datei muss dabei mit dem **Datum** beginnen, gefolgt von einem **Minus**, dann ein rein informativen **Teil der ignoriert wird** und dann **enden auf .md**, z.B. `2015-03-30-beschreibender-ignorierter-teil.md`
   - Der Inhalt der Datei muss anfangen mit den Zeilen:
