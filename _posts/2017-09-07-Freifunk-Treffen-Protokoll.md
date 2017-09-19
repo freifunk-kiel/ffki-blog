@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 07.09.2017 - Protokoll Freifunk Treffen
+title: Protokoll des Freifunk Treffens im September
 ---
 # Neues aus der Firmware-Ecke
 
