@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protokoll des Freifunk Treffens im September
+title: Protokoll des Freifunk Treffens im Dezember
 ---
 # Gateways für Freifunk Kiel
 In den letzten Wochen sind ein paar Gateways umgezogen. Inzwischen sind 4 Gateways bei OVH in Frankfurt gehostet und leiten direkt aus.
