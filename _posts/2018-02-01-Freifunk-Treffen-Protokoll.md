@@ -3,7 +3,6 @@ layout: post
 title: Protokoll des Freifunk Treffens im Februar
 ---
 # Mercator-Hochhaus
-
 Der Antrag für die Antennen auf dem Mercator-Hochhaus ist **endlich** bei der GMSH eingereicht.
 Das Schreiben des Antrages hat deutlich länger gedauert, als eigentlich geplant war.
 Allerdings mussten für den Antrag diverse mathematische "Grundlagen" erarbeitet werden.
