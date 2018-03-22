@@ -3,10 +3,13 @@ layout: post
 title: Dachinstallation Arkonastraße
 ---
 
-Wir haben am 20.03.2018 in der Geflüchteten-Unterkunft in der Arkonastraße das Netzwerk verbessert. Wir konnten
-die vorhandenen Installationen verbessern und durch die neuen Antennen auf dem hohen Turm eine größere Reichweite und 
-Verfügbarkeit erreichen. Es wird von dort aus auch möglich sein andere Dach-Standpunkte zu erreichen, z.B. das geplante
-[Mercator-Hochhaus](https://wiki.freifunk.in-kiel.de/wiki/Mercatorhochhaus)
+Am 2018-03-20 wurde die Freifunk-Installation in der Geflüchteten-Unterkunft Arkonastraße ausgebaut und verbessert.
+Die Anbringung der bereits vorhandenen Geräte wurde modernisiert und durch weitere Antennen ausgebaut. 
+Die neu Installierten Geräte verbessern neben den Funkverbindungen innerhalb des Gebäude-Komplexes insbesondere auch die Anbindung des selbigen.
+Dadurch wird eine bessere Verfügbarkeit und Qualität des Bereitgestellten Netzes erreicht.
+Die neuen auf dem hösten Gebäude des Komplexes installierten Antennen sind von mehr Gegenstellen als vorher erreichbar
+und tragen so neben lokalen Effekten auch zur einer erhöhten Vermaschung und dadruch mehr Redundanz des Freifunk-Netzes in der Wik bei.
+Bei dem Ausbau wurden bereits geplante Installationen beachtet, z.B. [Mercator-Hochhaus](https://wiki.freifunk.in-kiel.de/wiki/Mercatorhochhaus)
 
-Die Dokumentation zu den Veränderungen und dem aktuellen Stand findet sich unter: 
-https://wiki.freifunk.in-kiel.de/wiki/Standorte/Arkonastr1
+Siehe auch: 
+ * Dokumentation: [Standort/Arkonastr. 1](https://wiki.freifunk.in-kiel.de/wiki/Standorte/Arkonastr1)
