@@ -3,7 +3,6 @@ layout: post
 title: Protokoll des Freifunk Treffens im Mai
 ---
 # Freifunk Dachnetz Status
-
 Wir haben jetzt ein paar Standorte erschlossen oder gerade noch in Planung. Aus den Erfahrungen soll mal eine grobe Handreichung entwickelt werden wie ein neuer Standort aufgebaut werden kann: 
 
 1) "Leute" die Bock haben,suchen sich einen Standort aus.

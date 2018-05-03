@@ -3,7 +3,6 @@ layout: post
 title: 01.06.2017 - Protokoll Freifunk Treffen
 ---
 # Erlebsnisbericht von der Wireless Community Weekend
-
 Vom 26. bis zum 28. Mai hat das Wireless Community Weekend [1] in Berlin stadtgefunden.
 Mike war aus Kiel anwesen und konnte von seinen Erfahrungen berichten.
 

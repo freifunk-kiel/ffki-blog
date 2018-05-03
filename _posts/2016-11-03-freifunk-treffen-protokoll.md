@@ -2,8 +2,7 @@
 layout: post
 title: 03.11.2016 - Protokoll Freifunk Treffen
 ---
-Themen
-
+# Themen
  - ONN - Dächer werden ausgewählt noch dieses Jahr Begehung
  - Wie viel Daten soll Freifunk sammeln?
  - Warum benutzen wir eine Keys liste?

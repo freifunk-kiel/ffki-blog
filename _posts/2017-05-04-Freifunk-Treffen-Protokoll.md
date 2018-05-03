@@ -3,7 +3,6 @@ layout: post
 title: 04.05.2017 - Protokoll Freifunk Treffen
 ---
 # Die Zukunft für Freifunk in Schleswig-Holstein
-
 Es wurden Fragen geäußert, wie die Zukunft für Freifunk aussieht. Am 01.07.2017 wird die neu geregelte Vorratsdatenspeicherung (VDS) wirksam. Bisher ist die Rechtslage für Freifunk allerdings so unklar, dass die Folgen für Freifunk praktisch nicht absehbar sind.
 
 In Kiel wird das Netz weiterbetrieben werden. Allerdings kann die Ausleitung nicht mehr weiter in Deutschland geschehen. Statt dessen werden die Gateways mittels VPN-Verbindungen ausleiten.

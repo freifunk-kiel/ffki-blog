@@ -2,8 +2,7 @@
 layout: post
 title: 06.10.2016 - Protokoll Freifunk Treffen
 ---
-Themen
-
+# Themen
  - Bericht vom Medienkompetenztag
  - Bericht von den Kieler Linuxtagen
  - Neue Firmwarefunktionen vorgestellt

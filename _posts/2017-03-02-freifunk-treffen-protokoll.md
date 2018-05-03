@@ -3,7 +3,6 @@ layout: post
 title: 02.03.2017 - Protokoll Freifunk Treffen
 ---
 # Vorratsdatenspeicherung
-
 Im Oktober 2015 wurde die neue Fassung der Vorratsdatenspeicherung (VDS) verabschiedet [1]. Nach der bisherigen Übergangsfrist wird die Speicherpflicht im Juli 2017 in Kraft treten. Durch die VDS werden Telekommunikationsanbieter verpflichtet Metadaten, wie z.B. zugeteilte IP-Adressen, für bis zu 10 Wochen zu speichern.
 
 Primär werden größere Provider wie Freifunk Rheinland von der Speicherpflicht betroffen sein [2], aber es ist noch nicht klar, ob in Zukunft auch schon unsere Gateways unter die Regelungen fallen. Grundsätzlich bleibt also zu hoffen, dass die VDS möglichst bald wieder beendet wird. Diverse Gruppen haben schon Verfassungsbeschwerden gegen die VDS eingereicht.

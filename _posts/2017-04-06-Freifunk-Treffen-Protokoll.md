@@ -3,7 +3,6 @@ layout: post
 title: 06.04.2017 - Protokoll Freifunk Treffen
 ---
 # Leuchtturmprojekt #KN-WLAN und #SH-WLAN
-
 Auf der Cebit wurde verkündet, dass das bisherige KN-WLAN zu einem größeren SH-WLAN erweitert werden soll [1].
 Dies soll durch eine Kooperation zwischen (unter anderem) dem Land Schleswig-Holstein, den Sparkassen und dem Unternehmen Omnis ummgesetzt werden. Die Planungen scheinen so auszusehen, dass bis 2018 etwa 2000 Standorte mit WLAN ausgestattet werden sollen.
 

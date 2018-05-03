@@ -3,7 +3,6 @@ layout: post
 title: Protokoll des Freifunk Treffens im September
 ---
 # Neues aus der Firmware-Ecke
-
 Es werden inzwischen automatisch nightly-builds für die Firmware gebaut.
 Hier fließen automatisch alle Änderungen ein, werden gebaut und auf alle Router mit nightly-Autoupdate verteilt.
 

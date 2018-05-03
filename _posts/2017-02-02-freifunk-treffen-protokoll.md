@@ -3,7 +3,6 @@ layout: post
 title: 02.02.2017 - Protokoll Freifunk Treffen
 ---
 # Übergang ins Internet
-
 Die Verbindung zwischen Freifunk-Gateways und dem restlichen Internet ist in letzter Zeit häufiger gestört. Bisher geschieht diese Anbindung über OpenVPN-Tunnel zu NordVPN. Hier scheint es aber Probleme in der Konfiguration auf Seiten des VPN-Anbieters zu geben, wodurch Verbindungen ins Internet instabil werden oder komplett abbrechen.
 
 Zur Verbesserung der Situation wurden bereits zwei hide.me Zugänge durch den ONN [1] finanziert. Diese scheinen bisher stabiler zu laufen. Zusätzlich soll auf zwei Gateways komplett auf VPN-Anbieter verzichtet werden und direkt ins Internet ausgeleitet werden. Der Spender der Gateways hat bereits Erfahrungen mit dem Betrieb von Tor-Exit-Nodes und kann Abuse-Meldungen direkt beantworten.

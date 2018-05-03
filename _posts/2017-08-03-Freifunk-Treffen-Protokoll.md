@@ -3,7 +3,6 @@ layout: post
 title: 03.08.2017 - Protokoll Freifunk Treffen
 ---
 # Neues aus der Firmware-Ecke
-
 Seit einigen Versionen gibt es einen Fehler in manchen Routern, der manchmal dazu geführt hat, dass der Router kein funktionierendes WLAN mehr ausstrahlt. Dieser sollte eigentlich durch den sogenannten *Quickfix* erkannt werden und automatisch zum Neustart des Routers führen.
 Leider gab es bisher einen Fehler im Quickfix, der nur innerhalb der ersten Stunde nach Einschalten diese Überprüfung durchgeführt hat.
 

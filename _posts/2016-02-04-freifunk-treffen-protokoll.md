@@ -2,24 +2,15 @@
 layout: post
 title: 04.02.2016 - Protokoll Freifunk Treffen
 ---
-Themen
-
-#Kieler Ratsbeschluss für die Freigabe von Dächern und nun?
-
-#Flüchtlings-Unterkünfte Zustand?
-
-#Freifunk Nord braucht Admins
-
-#Wie bekommen wir mehr technische Helfer?
-
-#Flyer z.B. in der Uni verteilen
-
-#Menusch möchte ein wissenschaftliches Forschungsprojekt vorstellen
-
-#Kirchengemeinde in der Wik-Informiert
-
-#Manche Städte verschlüsseln die VPN Verbindung nicht mehr
-
+# Themen
+- Kieler Ratsbeschluss für die Freigabe von Dächern und nun?
+- Flüchtlings-Unterkünfte Zustand?
+- Freifunk Nord braucht Admins
+- Wie bekommen wir mehr technische Helfer?
+- Flyer z.B. in der Uni verteilen
+- Menusch möchte ein wissenschaftliches Forschungsprojekt vorstellen
+- Kirchengemeinde in der Wik-Informiert
+- Manche Städte verschlüsseln die VPN Verbindung nicht mehr
 
 #1. Kieler Ratsbeschluss für die Freigabe von Dächern und nun?
 Stadt befindet sich noch im "Prüfungsmodus"

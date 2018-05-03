@@ -3,7 +3,6 @@ layout: post
 title: Protokoll des Freifunk Treffens im April
 ---
 # Freifunk auf der Kieler Woche
-
 Es soll wieder ein Setup für das Camp der Jungen Bühne auf der Kieler Woche gebaut werden. Das minimale Setup ist ein LTE-Uplink und ein kleines Setup um die Bühne herum. Größere Setups sind aber auch gerne gesehen.
 
 Es haben sich zwei halbe Verantwortliche gefunden.

@@ -3,7 +3,6 @@ layout: post
 title: 06.07.2017 - Protokoll Freifunk Treffen
 ---
 # Wer hätte das gedacht? Erfolgreiche Klage gegen die VDS!
-
 Seit dem 01. Juli hätte eigentlich die Vorratsdatenspeicherung (VDS) von allen Providern
 umgesetzt werden sollen. In den letzten Wochen haben sich aber einige Änderungen ergeben.
 

@@ -3,7 +3,6 @@ layout: post
 title: Protokoll des Freifunk Treffens im März
 ---
 # Freifunk-Installationen im öffentlichen Raum
-
 Es gab eine negative Ansage als eine Dachinstallation adoptiert werden wollte.
 Als Begründung wurde der Zustand der Installation bei anderen Standorten
 angegeben.
