@@ -13,41 +13,41 @@ title: 03.11.2016 - Protokoll Freifunk Treffen
  - Antennenschüsseln zu verschenken
  - Diverses
 
-1. ONN - Dächer werden ausgewählt noch dieses Jahr Begehung
+### 1. ONN - Dächer werden ausgewählt noch dieses Jahr Begehung
 
-2. Wie viel Daten soll Freifunk sammeln?
+### 2. Wie viel Daten soll Freifunk sammeln?
 
   - Mailingliste ist deshalb OHNE öffentlichem Archiv
   - Kontaktadresse auf der Webseite ändern in eine Mail, die in ein Ticketsystem landet (anstatt direkt auf die Mailingliste)
   - nichts sammeln, was nicht zum Betrieb des Netzes notwendig ist
   - Text beim versenden des Keys: Hinweis darauf, dass es auch anonym möglich wäre.
 
-3. Warum benutzen wir eine Keys liste?
+### 3. Warum benutzen wir eine Keys liste?
 
   - Um Kontakt mit den Leuten zu haben
   - Um potentielle anzügliche Namen nicht zuzulassen
   - User, die in eine andere Community gehören, können benachrichtigt werden
   - Man geht einen Peering-Deal ein mit Knotenbetreibern
 
-4. Firmware Update mit Hürden
+### 4. Firmware Update mit Hürden
 
   - Probleme sind selten
   - bitte melden, wenn euer Router abstürzt
 
-5. Dächer in Kiel
+### 5. Dächer in Kiel
 
   Erlaubnis mit geprüftem Elektriker erteilt
 
   - Finanzamt in der Feldstraße
   - Rathaus erst mal noch nicht
 
-6. NOC liste öffentlich
+### 6. NOC liste öffentlich
 
-7. Wir brauchen neue Faltblätter
+### 7. Wir brauchen neue Faltblätter
 
   Wir brauchen neue Faltblätter mit dem einen (die WAN/LAN Ports erläutert werden)
 
-8. Antennenschüsseln zu verschenken
+### 8. Antennenschüsseln zu verschenken
 
   hat jemand noch mehr Fotos?
 
@@ -59,7 +59,7 @@ title: 03.11.2016 - Protokoll Freifunk Treffen
    - Pascal 2 Schüsseln - Lauenburg
    - Sven eine auseinandergebaut
 
-9. Diverses
+### 9. Diverses
 
    - VPN-Exit bei hide.me in Frankfurt
      wird demnächst beschlossen
