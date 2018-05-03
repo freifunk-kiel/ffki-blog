@@ -2,7 +2,7 @@
 layout: post
 title: 03.11.2016 - Protokoll Freifunk Treffen
 ---
-# Themen
+### Themen
  - ONN - Dächer werden ausgewählt noch dieses Jahr Begehung
  - Wie viel Daten soll Freifunk sammeln?
  - Warum benutzen wir eine Keys liste?
@@ -13,58 +13,58 @@ title: 03.11.2016 - Protokoll Freifunk Treffen
  - Antennenschüsseln zu verschenken
  - Diverses
 
-   1. ONN - Dächer werden ausgewählt noch dieses Jahr Begehung
+1. ONN - Dächer werden ausgewählt noch dieses Jahr Begehung
 
-   2. Wie viel Daten soll Freifunk sammeln?
+2. Wie viel Daten soll Freifunk sammeln?
 
-      - Mailingliste ist deshalb OHNE öffentlichem Archiv
-      - Kontaktadresse auf der Webseite ändern in eine Mail, die in ein Ticketsystem landet (anstatt direkt auf die Mailingliste)
-      - nichts sammeln, was nicht zum Betrieb des Netzes notwendig ist
-      - Text beim versenden des Keys: Hinweis darauf, dass es auch anonym möglich wäre.
-    
-   3. Warum benutzen wir eine Keys liste?
+  - Mailingliste ist deshalb OHNE öffentlichem Archiv
+  - Kontaktadresse auf der Webseite ändern in eine Mail, die in ein Ticketsystem landet (anstatt direkt auf die Mailingliste)
+  - nichts sammeln, was nicht zum Betrieb des Netzes notwendig ist
+  - Text beim versenden des Keys: Hinweis darauf, dass es auch anonym möglich wäre.
 
-      - Um Kontakt mit den Leuten zu haben
-      - Um potentielle anzügliche Namen nicht zuzulassen
-      - User, die in eine andere Community gehören, können benachrichtigt werden
-      - Man geht einen Peering-Deal ein mit Knotenbetreibern
+3. Warum benutzen wir eine Keys liste?
 
-   4. Firmware Update mit Hürden
+  - Um Kontakt mit den Leuten zu haben
+  - Um potentielle anzügliche Namen nicht zuzulassen
+  - User, die in eine andere Community gehören, können benachrichtigt werden
+  - Man geht einen Peering-Deal ein mit Knotenbetreibern
 
-      - Probleme sind selten
-      - bitte melden, wenn euer Router abstürzt
+4. Firmware Update mit Hürden
 
-   5. Dächer in Kiel
+  - Probleme sind selten
+  - bitte melden, wenn euer Router abstürzt
 
-      Erlaubnis mit geprüftem Elektriker erteilt
+5. Dächer in Kiel
 
-      - Finanzamt in der Feldstraße
-      - Rathaus erst mal noch nicht
+  Erlaubnis mit geprüftem Elektriker erteilt
 
-   6. NOC liste öffentlich
+  - Finanzamt in der Feldstraße
+  - Rathaus erst mal noch nicht
 
-   7. Wir brauchen neue Faltblätter
+6. NOC liste öffentlich
 
-      Wir brauchen neue Faltblätter mit dem einen (die WAN/LAN Ports erläutert werden)
+7. Wir brauchen neue Faltblätter
 
-   8. Antennenschüsseln zu verschenken
+  Wir brauchen neue Faltblätter mit dem einen (die WAN/LAN Ports erläutert werden)
 
-      hat jemand noch mehr Fotos?
+8. Antennenschüsseln zu verschenken
 
-      die Antennen haben einen N-Stecker. Man kann da z.B. direkt einen Ubiquiti Bullet dranhängen
+  hat jemand noch mehr Fotos?
 
-      Antennen Schüsseln vergeben an:
+  die Antennen haben einen N-Stecker. Man kann da z.B. direkt einen Ubiquiti Bullet dranhängen
 
-       - für Freifunk Nordheide 2 Stück - Swen Mager
-       - Pascal 2 Schüsseln - Lauenburg
-       - Sven eine auseinandergebaut
+  Antennen Schüsseln vergeben an:
 
-   9. Diverses
+   - für Freifunk Nordheide 2 Stück - Swen Mager
+   - Pascal 2 Schüsseln - Lauenburg
+   - Sven eine auseinandergebaut
 
-       - VPN-Exit bei hide.me in Frankfurt
-         wird demnächst beschlossen
-       - IPv6
-         Moritz kümmert sich
-       - Router mit 8MB
-         4MB passt die Firmware nicht mehr
-       - Repair Cafe am Sa. 12.11. in Gaarden
+9. Diverses
+
+   - VPN-Exit bei hide.me in Frankfurt
+     wird demnächst beschlossen
+   - IPv6
+     Moritz kümmert sich
+   - Router mit 8MB
+     4MB passt die Firmware nicht mehr
+   - Repair Cafe am Sa. 12.11. in Gaarden

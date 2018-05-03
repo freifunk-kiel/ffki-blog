@@ -2,7 +2,7 @@
 layout: post
 title: 04.02.2016 - Protokoll Freifunk Treffen
 ---
-# Themen
+### Themen
 - Kieler Ratsbeschluss für die Freigabe von Dächern und nun?
 - Flüchtlings-Unterkünfte Zustand?
 - Freifunk Nord braucht Admins
@@ -12,20 +12,20 @@ title: 04.02.2016 - Protokoll Freifunk Treffen
 - Kirchengemeinde in der Wik-Informiert
 - Manche Städte verschlüsseln die VPN Verbindung nicht mehr
 
-#1. Kieler Ratsbeschluss für die Freigabe von Dächern und nun?
+### 1. Kieler Ratsbeschluss für die Freigabe von Dächern und nun?
 Stadt befindet sich noch im "Prüfungsmodus"
  
 Es soll gefordert werden um diese dazu zu bewegen, sich zu einer Entscheidung durchzuringen  
 (Brief schreiben und mit ONN unterschreiben)
  
-Gebäude:
+#### Gebäude:
 *    Mercator Hochhaus (Land)  
 *    Rathausturm -> Kieler Woche unter umständen  
 *    Liste aller Liegenschaften besorgen (Sven Seele)  
  
 Wer ist Ansprechpartner bei der Stadt? ev. Steffen Voß kontaktieren.
 
-#2. Flüchtlings-Unterkünfte Zustand?
+### 2. Flüchtlings-Unterkünfte Zustand?
 
 *	Sven Thomsen kümmert sich um einige Einrichtungen  
 *	"Kiel hlft Flüchtlingen" zu Besuch am Freifunk Donnerstag  
@@ -35,25 +35,25 @@ Wer ist Ansprechpartner bei der Stadt? ev. Steffen Voß kontaktieren.
  *	    	Sprachkurse  
  *	    	Internetcafe  
     
-#3. Freie W-LANs für alle
+### 3. Freie W-LANs für alle
 
 Bundesregierung ist nach-wie-vor weit davon entfernt  
 
-#4. Freifunk Nord braucht mehr Admins
+### 4. Freifunk Nord braucht mehr Admins
 
 Technisch Interressierte vortreten um sich zu beteiligen  
 Man möge sich dann bitte an die NOC wenden, z.B. per Mailinglisten  
 
-#5. Verbreitung von Freifunk
+### 5. Verbreitung von Freifunk
 
 z.B. Flyer in der Uni verteilen  
 
-#6. Menusch's Wissenschaftliches Projekt
+### 6. Menusch's Wissenschaftliches Projekt
 
 Wie kann man Bürger motivieren?  
 
 
-#7. "Wlan Onkel" will "Dummy"-Faltblätter mit Platz für Stempel entwerfen
+### 7. "Wlan Onkel" will "Dummy"-Faltblätter mit Platz für Stempel entwerfen
 
 *	gerne auch bei Ruben(Rubo77) melden, der passt das Kieler Faltblatt dann an:  
 *	https://github.com/rubo77/freifunk-faltblatt-6-seiten/tree/ffki  
