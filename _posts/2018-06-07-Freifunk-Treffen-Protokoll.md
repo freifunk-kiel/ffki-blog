@@ -3,13 +3,13 @@ layout: post
 title: Protokoll des Freifunk Treffens im Juni
 ---
 ### "Mesh is in the Air" Bericht aus Berlin
-Vom 7. bis 13. Mai wurde das *Wireless Battle Mesh* und das *Wireless Community Weekend* in Berlin ausgerichtet[2]. Die Veranstaltungen wurden von Besuchern aus der ganzen Welt besucht und auch einige Freifunker aus Kiel waren angereist.
+Vom 7. bis 13. Mai wurde das *Wireless Battle Mesh* und das *Wireless Community Weekend* in Berlin ausgerichtet<sup>[2]</sup>. Die Veranstaltungen wurden von Besuchern aus der ganzen Welt besucht und auch einige Freifunker aus Kiel waren angereist.
 
-Daniel hat einen Vortrag zum ddhcpd gehalten, der auch online verfügbar[3] ist. Außerdem wurde unter anderem über aktuelle Entwicklungen zum Routing diskutiert. Das neue Routing über Babel befindet sich langsam auf der Zielgeraden.
+Daniel hat einen Vortrag zum ddhcpd gehalten, der auch online verf&uuml;gbar<sup>[3]</sup> ist. Au&szlig;erdem wurde unter anderem über aktuelle Entwicklungen zum Routing diskutiert. Das neue Routing über Babel befindet sich langsam auf der Zielgeraden.
 
 ### Ausblick Firmware Neuerungen
 Zur Zeit sind unsere Router noch mit einer Firmware basierend auf Gluon 2016.x ausgestattet.
-Die aktuelleren Gluon-Versionen 2017.x und 2018.x haben leider einen mysteriösen Bug[1], der
+Die aktuelleren Gluon-Versionen 2017.x und 2018.x haben leider einen mysteriöse Bug<sup>[1]</sup>, der
 besonders WR841 Router mit hoher Systemlast abstürzen lässt.
 
 Wenn wir eine neue Firmware ausrollen können, wären dabei ein paar neue Features unterstützt:
