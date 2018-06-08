@@ -25,12 +25,13 @@ Es wird vermutet, dass OVH aktiv VPN-Verkehr drosselt oder komplett verwirft.
 
 Aus diesen Gründen wurden die 4 OVH Maschinen vor kurzem gekündigt. 
 Als Resultat sind unsere verbleibenden Gateways zur Zeit etwas stark belastet. 
-Es wurden aber bereits neue Gateway-Spenden angekündigt, so dass die Situation in absehbarer Zeit gelöst werden sollte.
+Es wurden aber bereits neue Gateway-Spenden angekündigt, so dass die Situation in absehbarer Zeit gelöst werden sollte.  
+*Nachtrag: Es wurde bereits am selben Abend noch ein drittes Gateway in betrieb genommen.*
 
 ### Mesh unabhängiger Auto Update
 t-sys hat einen neuen Autoupdater für unsere Firmware entwickelt.
 Der Updater ist in der Lage auch größere Änderungen am Netz zu überleben,
-zum Beispiel ein Update der Routing-Protokolle (B.A.T.M.A.N. oder Babel).
+zum Beispiel ein Update der Routing-Protokolle (*B.A.T.M.A.N.*-Version oder Wechsel zu *Babel*).
 
 Wenn das bisherige Updateverfahren fehlschlägt, verbindet sich der neue Updater direkt mit seinen
 Nachbarn und nutzt diese als Proxy. Hierüber kann er dann den Updateserver erreichen.
@@ -40,9 +41,9 @@ Nachbarn und nutzt diese als Proxy. Hierüber kann er dann den Updateserver erre
 Wir haben von Freifunk Nordwest ein IPv6 Präfix delegiert bekommen. Die Integration in das Freifunk Netz sind in vollem Gange.
 
 #### Neues aus der Hardwareecke
-Ruben hat ein paar neue Router zum Selbstkostenpreis mitgebracht. Die neuen WR1043v5 kosten 29 Euro und sind unser aktuelles Einstiegsgerät. Die neue Version hat kein USB-Anschluss mehr.
+Die neuen *TP-Link WR1043 v5* sind unser aktuelles Einstiegsgerät. Die neue Version hat kein USB-Anschluss mehr.
 
-Die Router werden zur Zeit nur von der Nightly-Firmware unterstützt. Der Autoupdater ist aber automatisch auf Stable konfiguriert, so dass nicht immer die Nightly-Versionen nachgeladen werden.
+Die Router werden zur Zeit nur von der Nightly-Firmware unterstützt. Der Autoupdater ist aber automatisch auf Stable konfiguriert, so dass nicht immer die Nightly-Versionen nachgeladen werden. Sobald eine neue Stable Version veröffentlicht wird, wird der Autoupdater diese installieren.
 
 #### Linux Presentation Day
 Am 10. November findet der nächste *Linux Presentation Day* in Raisdorf statt.
