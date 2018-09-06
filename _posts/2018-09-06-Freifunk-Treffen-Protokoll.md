@@ -12,9 +12,10 @@ Zusätzlich zu IPv6 haben wir auch IPv4-Transit über Freifunk Nordwest zur Verf
 Leider gibt es ein paar Probleme mit Google über IPv6. 
 Das verwendete Netz steht anscheinend auf einer Blacklist, so dass eigentlich 
 Captchas gelöst werden müssten. Allerdings können die Captchas nicht sauber geladen werden.
-Wir hoffen dass das in der nächsten Zeit gelöst werden kann.
+Wir hoffen dass das in der nächsten Zeit gelöst werden kann. Bis dahin bitten wir eine der 
+alternativen, z.B. <a href="https://startpage.de">Startpage</a> zu benutzen.
 
-### Status des Merkator Hochhaus Installation
+### Status der Installation auf dem Merkator Hochhaus
 Es gibt Rückmeldung von der Stadt. Laut $VertretungVonSachbearbeiter wird die Umsetzung aktiv geplant.
 Wir hoffen dass die Mast-Montage noch in diesem Jahr statt findet.
 
@@ -34,6 +35,6 @@ des Freifunk Nord e.V. in der Toppoint statt.
 
 #### Status ddhcpd
 Der ddhcpd stabilisiert sich langsam. 
-Bitte ladet euch die Nightly-Firmware herunter um das zu testen.
+Bitte ladet euch die <a href="/firmware/nightly">Nightly-Firmware</a> herunter um das zu testen
 
 *Das nächste Freifunk Treffen findet planmäßig am 04.10.2018 statt.*
