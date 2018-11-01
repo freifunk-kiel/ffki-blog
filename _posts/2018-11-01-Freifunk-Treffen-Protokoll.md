@@ -18,14 +18,20 @@ Die Service-Maschine ist zur Zeit noch ein Schlachtfeld.
 Die vielen alten Skripte müssen mal aktualisiert werden.
 
 ### Neuigkeiten aus der Freifunk Firmware 2018.1.1-461
-Vor einer Woche wurde die neue Firmware veröffentlicht. 
-Mit der neuen Firmware ist das fast schon antike Gluon mal aktualisiert worden.
-Einige Filter dämmen die Broadcasts im Netz ein bisschen ein und haben das Rauschen im Netz reduziert.
-Der neue ddhcpd verteilt jetzt IP-Adressen an Clients direkt auf dem Knoten ohne die Gateways zu belasten.
-Aktuell gibt es noch einen Fehler, der dafür sorgt dass der roamguide gar nicht läuft.
+Vor einer Woche wurde die neue Firmware veröffentlicht:
+
+- Mit der neuen Firmware ist das fast schon antike Gluon mal aktualisiert worden.
+- Einige Filter dämmen die Broadcasts im Netz ein bisschen ein und haben das Rauschen im Netz reduziert.
+- Der neue ddhcpd verteilt jetzt IP-Adressen an Clients direkt auf dem Knoten ohne die Gateways zu belasten.
+- Das Kontaktfeld ist nicht mehr Pflicht.
+- Ein SSH Login ist nur noch per SSH-Key mögllich.
+- Der gluon-ssid-changer schaltet die SSID eines Routers jetzt auf offline, wenn dieser eine Stunde offline ist und man kann diesen jetzt im Config mode an- und ausschalten (default an).
+- Die WiFi-Reset Funktion des WiFi Buttons [3] ermittelt jetzt auch das nächste Gateway neu. und hat eine Option, das Mesh-VPN für 5h zu deaktivieren.
+- Viele neue unterstütze Router Modelle.
+- Aktuell gibt es noch einen Fehler, der dafür sorgt dass der roamguide gar nicht läuft.
 Es gibt bisher keinen festen Zyklus für Releases, aber vielleicht könnte hier mal ein festerer Prozess etabliert werden.
 
-Durch das Update sind maximal eine einstellige Anzahl Knoten verloren worden, die beim Update nicht sauber neugestartet sind. Ein paar Knoten haben undefiniert hohe Last. Für den Fehler gibt es eine Bug-Bounty im Freifunk-Forum ausgeschrieben.
+Durch das Update sind maximal eine einstellige Anzahl Knoten verschwunden, die beim Update nicht sauber neugestartet sind. Ein paar Knoten haben undefiniert hohe Last. Für den Fehler gibt es schon länger eine Bug-Bounty im Freifunk-Forum ausgeschrieben.
 
 In der neuen Nightly-Firmware ist der Mesh-Independent-Autoupdater veröffentlicht.
 
@@ -33,7 +39,7 @@ In der neuen Nightly-Firmware ist der Mesh-Independent-Autoupdater veröffentlic
 Vor einiger Zeit wurden praktisch alle Freifunk-Gruppen in Schleswig-Holstein vom Wirtschaftsausschuss des Landtages angeschrieben.
 Das Thema wurde schon vor 4 Jahren begonnen und einmal im Bundesrat und Bundestag behandelt, ist damals aber dem Ende der Legislatur zum Opfer gefallen.
 
-Im letzten Meeting wurde zwar besprochen, dass jemand(TM) sich um die Antwort kümmern werden. Allerdings wurde der jemand(TM) nicht mit einer konkreten Person gefüllt. Das hat dazu geführt, dass bis kurz vor Fristablauf keine anständige Antwort vorbereitet wurde. Es wurde dann kurzfristig ein Antwortschreiben formuliert und eine Stellungnahme an den Wirtschaftsausschuss gesendet.
+Im letzten Meeting wurde zwar besprochen, dass jemand(TM) sich um die Antwort kümmern werde. Allerdings wurde der jemand(TM) nicht mit einer konkreten Person gefüllt. Das hat dazu geführt, dass bis kurz vor Fristablauf keine anständige Antwort vorbereitet wurde. Es wurde dann aber kurzfristig ein gutes Antwortschreiben formuliert und eine Stellungnahme an den Wirtschaftsausschuss gesendet.
 
 ### Prof. Dr. Menusch Khadjavi stellt sein Forschungsprojekt vor
 Prof. Khadjavi und Prof. Schmidt wollen Freifunk im Rahmen ein Forschungsprojektes untersuchen. Freifunk ist eine interessante Plattform für die Forschung, da sich hier freiwillige Menschen verbinden um das Gemeinwohl zu unterstützen.
@@ -56,7 +62,7 @@ Es gab einen etwas unangenehmen Vorfall auf der Freifunk-Mailingliste. Es wurde 
 Es könnte die Mailingliste moderiert werden oder die betreffende Person von der Liste entfernt werden. Alternativ könnte auch auf der Liste eine Meta-Diskussion über die Umgangsformen begonnen werden.
 
 #### Matrix-IRC Brücke
-Die bisherige Brücke zwischen dem Hackint IRC-Netz und der Matrix wird zum Jahresende abgeschaltet. Unser bisheriger Freifunk-Channel ist an das Hackint-Netz angebunden und wird die Verbindung dann verlieren.  
+Die bisherige Brücke zwischen dem Hackint IRC-Netz und der Matrix wird zum Jahresende abgeschaltet. Unser bisheriger Freifunk-Channel ist an das Hackint-Netz angebunden und wird die Verbindung dann verlieren. Man könnte aber zum Freenode IRC wechseln um weiterhin einen mit IRC gebrückten Matrix Raum zu erhalten.
 
 
 *Das nächste Freifunk Treffen findet planmäßig am 06.12.2018 statt.*
