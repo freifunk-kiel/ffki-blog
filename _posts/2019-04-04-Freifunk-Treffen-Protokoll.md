@@ -24,6 +24,7 @@ Auf dem Updateserver wurde ein neues Tool eingerichtet,
 das automatisch das Netz analysiert und Router kontrolliert
 Updates ermöglicht. Das Tool kann sowohl genutzt werden um
 MIAU zu testen, als auch das Update auf die neue B.A.T.M.A.N. Version zu kontrollieren.
+(<a href="https://github.com/sargon/ffua">ffua auf GitHub</a>)
 
 Für das konkrete Update gibt es noch keinen Zeitplan, es wird aber rechtzeitig per Mail und Blogpost Informationen geben.
 
@@ -42,6 +43,6 @@ der aber eigentlich seine Tätigkeit niederlegen möchte.
 
 #### Mitgliederversammlung Offene Netze Nord e.V.
 Am 13.6. findet um 18 Uhr die Mitgliederversammlung für den ONN in der Toppoint statt.
-Hierbei soll auch die Satzung angepasst werden.0
+Hierbei soll auch die Satzung angepasst werden.
 
 *Das nächste Freifunk Treffen findet planmäßig am 02.05.2019 statt.*
