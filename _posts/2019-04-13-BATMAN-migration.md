@@ -47,6 +47,6 @@ Wir werden die betroffenen Knotenbetreiber über diesen Umstand informieren und 
 
 Für das konkrete Update (Schritt 4) gibt es noch keinen Zeitplan. Es wird aber rechtzeitig per Mail und Blogpost Informationen zu diesem geben.
 
-[1] batman-adv legacy: https://github.com/freifunk-gluon/batman-adv-legacy
-[2] miau: https://github.com/TobleMiner/gluon-tsys
-[3] ffua: https://github.com/sargon/ffua/
+- [1] batman-adv legacy: https://github.com/freifunk-gluon/batman-adv-legacy
+- [2] miau: https://github.com/TobleMiner/gluon-tsys
+- [3] ffua: https://github.com/sargon/ffua/
