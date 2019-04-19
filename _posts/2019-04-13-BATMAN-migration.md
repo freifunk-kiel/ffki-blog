@@ -6,7 +6,7 @@ title: Umstieg auf B.A.T.M.A.N. Advanced compat 15
 
 TL;DR; Wir werden in den nächsten Wochen mehrere Updates ausführen, wobei das vorletzte Update dieser Reihe ein sogenannter "Breaking Change" ist. Um diesen Umstieg dennoch sicher zu gestalten, haben wir zwei neue Technologien entwickelt, die uns helfen werden, die Risiken minimieren zu können.
 
-Das von unserer Gemeinschaft eingesetzte Mesh-Module batman-adv ist bereits ein "wenig" in die Jahre gekommen und wird nur noch rudimentär gepflegt [1]. 
+Das von unserer Gemeinschaft eingesetzte Mesh-Module batman-adv ist bereits ein "wenig" in die Jahre gekommen und wird nur noch rudimentär gepflegt <a href="https://github.com/freifunk-gluon/batman-adv-legacy" target="_blank">[1]</a>. 
 Es ist insbesondere immer noch nur Kompatiblitätsstufe 14; die letzte offizelle Version von batman-adv, welche diese Stufe unterstützt hat, stammt von 2013. 
 Wir sind also bei den Features unserer Basis-Technologie, dem Mesh-Protokoll, ein "wenig" hinter der Zeit.
 
@@ -16,13 +16,13 @@ und ein Parallelbetrieb, wie wir ihn z.B. beim Umstieg von ad-hoc auf 802.11s be
 Daher haben wir in den letzten Jahren an einer Strategie gearbeitet, welche uns einen Umstieg trotzdem ermöglicht.
 Dabei kommen zwei von uns entwickelte Technologien zum Einsatz: MIAU und FFUA.
 
-Der Mesh Independent AutoUpdater (MIAU) [2] ist eine Erweiterung des Autoupdaters.
+Der Mesh Independent AutoUpdater (MIAU) <a href="https://github.com/TobleMiner/gluon-tsys" target="_blank">[2]</a> ist eine Erweiterung des Autoupdaters.
 Während die Mesh-Protokolle zwar inkompatibel sind, also ein Weiterreichen der Daten über Knoten hinweg nicht mehr funktioniert, ist die Kommunikation zwischen zwei benachbarten Knoten weiterhin möglich.
 Diesen Umstand nutzen wir, um die Möglichkeit zu schaffen, dass Knoten sich gegenseitig Updates weiterleiten können.
 Somit ist ein Knoten, welcher keinen Kontakt mehr zum Update-Server hat, weil alle Knoten um ihn herum bereits aktuallisiert haben, weiterhin in der Lage, von seinen direkten Nachbarn, eine aktuelle Firmware zu erhalten. 
 Das ist unsere Fallback-Absicherung.
 
-Das Freifunk Firmware Update Allow (FFUA) [3] ist ein Stück Software, welches auf dem Update-Server läuft und Knoten das Update verweigern bzw. erlauben kann. Damit sind wir in der Lage, anhand einer Strategie Firmware kontrolliert an Knoten zu verteilen. Dazu haben wir zwei Strategien entwickelt:
+Das Freifunk Firmware Update Allow (FFUA) <a href="https://github.com/sargon/ffua/" target="_blank">[3]</a> ist ein Stück Software, welches auf dem Update-Server läuft und Knoten das Update verweigern bzw. erlauben kann. Damit sind wir in der Lage, anhand einer Strategie Firmware kontrolliert an Knoten zu verteilen. Dazu haben wir zwei Strategien entwickelt:
 
 - Die erste "MIAU Enforce" zwingt alle Knoten im Netz, ihr Update über den MIAU-Mechanismus zu beziehen.  Auf diese Weise testen wir seit einigen Wochen MIAU im Nightly-Branch.
 - Die zweite Strategie "Outer-To-Inner Upgrade" verteilt ein Update so, dass die Knoten, welche – in Hinblick auf Länge des Netzwerkpfades – am weitesten von den Update Servern entfernt sind, als erstes ihr Update erhalten. Somit ist sichergestellt, dass alle Knoten die noch nicht das Update haben weiterhin mit einem mit ihrem Softwarestand kompatiblen Mesh verbunden bleiben und somit weiterhin die Möglichkeit behalten, das Update selber zu beziehen. Diese Methode ist in Testszenarien bereits erfolgreich erprobt.
@@ -47,6 +47,6 @@ Wir werden die betroffenen Knotenbetreiber über diesen Umstand informieren und 
 
 Für das konkrete Update (Schritt 4) gibt es noch keinen Zeitplan. Es wird aber rechtzeitig per Mail und Blogpost Informationen zu diesem geben.
 
-- [1] batman-adv legacy: https://github.com/freifunk-gluon/batman-adv-legacy
-- [2] miau: https://github.com/TobleMiner/gluon-tsys
-- [3] ffua: https://github.com/sargon/ffua/
+- [1] batman-adv legacy: <a href="https://github.com/freifunk-gluon/batman-adv-legacy" target="_blank">https://github.com/freifunk-gluon/batman-adv-legacy</a>
+- [2] miau: <a href="https://github.com/TobleMiner/gluon-tsys" target="_blank">https://github.com/TobleMiner/gluon-tsys</a>
+- [3] ffua: <a href="https://github.com/sargon/ffua/" target="_blank">https://github.com/sargon/ffua/</a>
