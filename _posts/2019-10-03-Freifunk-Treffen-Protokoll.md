@@ -19,6 +19,6 @@ Keine nennenswerten Veränderungen.
 
 ### Diverses
 #### Kieler Linux Tage
-Es wurde ein Vortrag auf den KieLux gehalten. Der Vortrag sollte demnächst auf YoutTube verfügbar sein.
+Es wurde ein Vortrag auf den KieLux gehalten. Der Vortrag sollte demnächst auf YouTube verfügbar sein.
 
 *Das nächste Freifunk Treffen findet planmäßig am 07.11.2019 statt.*
