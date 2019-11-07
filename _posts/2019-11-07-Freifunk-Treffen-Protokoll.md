@@ -16,7 +16,7 @@ Laufen stabil vor sich hin.
 
 ### DDHCPD
 Daniel hat die Integration des dDHCPd nochmal ein bisschen verbessert und den Management-Overhead ein bisschen reduziert.
-Weiterhin gab es eine Verbesserung in der Behandlung der verteilten Blöcke. So, dass freie Blöcke nicht so agressiv durch die Gegend gereicht werden, sondern zunächst noch kurz in dem bisherigen Knoten behalten werden.
+Weiterhin gab es eine Verbesserung in der Behandlung der verteilten Blöcke. So, dass freie Blöcke nicht so agressiv durch die Gegend gereicht werden, sondern zunächst noch kurz in dem bisherigen Knoten behalten werden. Außerdem vergisst die dDHCPd-Integration in unserer Firmware jetzt nicht mehr sofort irh zugeordnetes Gateway, wenn dieses einmal kurz nicht erreichbar ist (was bei UDP Verbindungen immer leicht auftreten kann), dadurch wird der Netzzugang der User stabiler werden.
 
 Es gibt noch ein paar Ideen um die Lernphase am Anfang des Lebenszyklus zu verkürzen, diese sind aber noch nicht implementiert.
 
