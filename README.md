@@ -8,7 +8,7 @@ Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog
 
 ### 1. Klicke einfach oben auf den Ordner `_posts` und führe dann folgende Schritte aus:
 
-  - Logge dich in deinem Github Account ein (oder falls du einen eigenen Account ablehnst, benutze den Username: `ffki-blogger`, Passwort: `blogger77`)
+  - Logge dich in deinem Github Account ein
   - Erstelle eine neue `.md` seite im ordner [`_posts`](https://github.com/freifunk-kiel/ffki-blog/tree/master/_posts), drücke dazu rechts oben auf "Create new file":  
      ![Create new file](https://i.stack.imgur.com/CpbDL.png)  
      (beim ersten mal wird dabei automatisch eine Kopie dieses Projekts in deinem Github erzeugt, in dem du ab dann arbeitest). 
