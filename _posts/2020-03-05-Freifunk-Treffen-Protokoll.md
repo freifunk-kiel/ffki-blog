@@ -8,7 +8,8 @@ Es gab neue Informationen von der GMSH, allerdings hat sich noch nicht viel geta
 Es wird zur Zeit versucht Handwerker für die anstehenden Arbeiten zu gewinnen.
 
 #### Firmware
-Die neue Firmware ist fertig und getestet und könnte 
+Die neue Firmware ist fertig und getestet und könnte als stabile Firmware verteilt werden.
+Die Tests als Release Candidate haben keine schwerwiegenden Probleme gezeigt.
 
 #### Gateways
 Die Server laufen wieder regulär, auch VPN6 ist wieder verfügbar.
