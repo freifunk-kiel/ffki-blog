@@ -25,7 +25,7 @@ Unsere Freunde von Freifunk Nord könnten ein bisschen Hilfe gebrauchen.
 Das Admin-Team besteht zur Zeit nur noch aus 3 Leuten, die aber auch mit anderen Communities gut ausgelastet sind.
 Falls weiter Leute sich beteiligen möchten, ist Hilfe immer gerne gesehen.
 
-#### Öffentlichkeistarbeit
+#### Öffentlichkeitsarbeit
 Wir könnten neue Flyer gebrauchen, da die Adresse nicht mehr aktuell ist.
 Außerdem können die Informationen in dem Zuge mal aktualisiert werden.
 
